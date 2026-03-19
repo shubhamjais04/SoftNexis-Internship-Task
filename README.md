@@ -1,4 +1,4 @@
-# 🧹 Task 1: Data Cleaning & Preprocessing
+# Task 1: Data Cleaning & Preprocessing
 **Internship:** Soft Nexis Technology
 **Intern Name:** Shubham Jaiswal
 **Domain:** Data Science & Machine Learning Using Python
@@ -6,21 +6,12 @@
 
 ---
 
-## 📌 Objective
+## Objective
 Clean and preprocess a raw customer dataset to make it ready for analysis by handling duplicates, missing values, data type issues, and formatting inconsistencies.
 
 ---
 
-## 📂 Files in this folder
-| File | Description |
-|------|-------------|
-| `Task1_Data_Cleaning.ipynb` | Main Jupyter Notebook with all cleaning steps |
-| `customers-1000.csv` | Original raw dataset (1000 records) |
-| `cleaned_customers.csv` | Final cleaned and processed dataset |
-
----
-
-## 🛠️ Steps Performed
+## Steps Performed
 
 ### 1. Data Ingestion
 - Loaded the dataset using `pd.read_csv()`
@@ -50,19 +41,19 @@ Clean and preprocess a raw customer dataset to make it ready for analysis by han
 
 ---
 
-## 📦 Libraries Used
+## Libraries Used
 - `pandas`
 - `numpy`
 
 ---
 
-## ✅ Outcome
+## Outcome
 A clean, analysis-ready dataset saved as `cleaned_customers.csv` with consistent formatting, correct data types, and no duplicates or missing values.
 ```
 
 ---
 
-### 📁 Folder structure on GitHub should look like this:
+### Folder structure on GitHub should look like this:
 ```
 SoftNexis-Data-Science-Internship/
 │
