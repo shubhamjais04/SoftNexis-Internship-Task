@@ -7,6 +7,17 @@
 
 ---
 
+## Repository Structure
+SoftNexis-Data-Science-Internship/
+│
+└── Task1_Data_Cleaning/
+    ├── README.md
+    ├── Task1_Data_Cleaning.ipynb
+    ├── customers-1000.csv
+    └── cleaned_customers.csv
+
+---
+
 ## Objective
 Clean and preprocess a raw customer dataset (1000 records) to make it ready for analysis.
 
@@ -19,3 +30,19 @@ Clean and preprocess a raw customer dataset (1000 records) to make it ready for 
 4. **Missing Value Handling** - Diagnosed and handled missing values
 5. **Data Type Correction** - Converted `subscription_date` to datetime format
 6. **Format Standardization** - Standardized text casing and removed whitespace
+
+---
+
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+---
+
+## Outcome
+A clean, analysis-ready dataset saved as `cleaned_customers.csv` with consistent formatting, correct data types, 
+and no duplicates or missing values.
+
+---
