@@ -55,7 +55,7 @@ A clean, analysis-ready dataset saved as `cleaned_customers.csv` with consistent
 
 ### Folder structure on GitHub should look like this:
 ```
-SoftNexis-Data-Science-Internship/ 
+SoftNexis-Data-Science-Internship/  
 │  
 └── Task1_Data_Cleaning/  
     ├── README.md  
