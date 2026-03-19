@@ -1,5 +1,5 @@
 # Task 1: Data Cleaning & Preprocessing
-**Internship:** Soft Nexis Technology  
+**Internship:** SoftNexis Technology  
 **Intern Name:** Shubham Jaiswal  
 **Domain:** Data Science & Machine Learning Using Python  
 **Intern ID:** SN1001074
@@ -57,8 +57,8 @@ A clean, analysis-ready dataset saved as `cleaned_customers.csv` with consistent
 ```
 SoftNexis-Data-Science-Internship/
 │
-└── Task1_Data_Cleaning/
-    ├── README.md
-    ├── Task1_Data_Cleaning.ipynb
-    ├── customers-1000.csv
-    └── cleaned_customers.csv
+└── Task1_Data_Cleaning/  
+    ├── README.md  
+    ├── Task1_Data_Cleaning.ipynb  
+    ├── customers-1000.csv  
+    └── cleaned_customers.csv 
