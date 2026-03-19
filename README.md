@@ -8,7 +8,7 @@
 ---
 
 ## Repository Structure
-SoftNexis-Data-Science-Internship/  
+SoftNexis-Internship-Task/  
 ├── Task1_Data_Cleaning.ipynb  
 ├── customers-1000.csv  
 ├── cleaned_customers.csv  
