@@ -1,7 +1,7 @@
 # Task 1: Data Cleaning & Preprocessing
-**Internship:** Soft Nexis Technology
-**Intern Name:** Shubham Jaiswal
-**Domain:** Data Science & Machine Learning Using Python
+**Internship:** Soft Nexis Technology  
+**Intern Name:** Shubham Jaiswal  
+**Domain:** Data Science & Machine Learning Using Python  
 **Intern ID:** SN1001074
 
 ---
