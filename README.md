@@ -57,7 +57,7 @@ A clean, analysis-ready dataset saved as `cleaned_customers.csv` with consistent
 ```
 SoftNexis-Data-Science-Internship/  
 │
-└── Task1_Data_Cleaning/  
+└── Task1_Data_Cleaning/
     ├── README.md  
     ├── Task1_Data_Cleaning.ipynb  
     ├── customers-1000.csv  
